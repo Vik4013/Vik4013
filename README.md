@@ -5,10 +5,9 @@
 - 📫 How to reach me "Here".
 - 😄 Pronouns: " Personal "
 - ⚡ Fun fact: "I'm Autodidact"
-Je vais quand même me présenter dans les grandes lignes.Comme tout le monde ici,le codage me passionne. Ma rencontre avec la blockchain se fût en 2008/2009 btc et monero . L'hétique ne fait pas spécialement parti de mes projets mais je m'en souci. 
 
 
-
+I'm still going to introduce myself in broad terms. Like everyone here, I'm passionate about coding. My encounter with blockchain took place in 2008/2009 BTC and Monero. Aesthetics is not particularly part of my plans but I care about it.
 
 
 <!---
